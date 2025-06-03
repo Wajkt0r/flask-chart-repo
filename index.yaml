@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  flask-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-06-03T08:20:33.489695394Z"
+    description: A simple flask chart app
+    digest: 3bb68677856bc7c76c1577b0565ff8f6ae348c12fc141c5a3982129b88b2167f
+    name: flask-chart
+    type: application
+    urls:
+    - https://wajkt0r.github.io/flask-chart-repo/flask-chart-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-06-03T08:20:33.489124177Z"
